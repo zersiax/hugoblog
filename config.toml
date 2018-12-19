@@ -1,3 +1,25 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://www.example.org/"
+title = "Zersiax's Tower of Sorcery"
+copyright = "Copyright &copy; 2018 - Florian Beijers"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Florian Beijers (Zersiax)"
+    github = "https://github.org/zersiax"
+    gitlab = ""
+    linkedin = "https://nl.linkedin.com/in/florianbeijers"
+    facebook = ""
+    twitter = "https://www.twitter.com/zersiax"
+    instagram = ""
+
+[params]
+    tagline = "Accessibility, programming, music and more"
+
+
