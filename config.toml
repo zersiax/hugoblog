@@ -1,0 +1,4 @@
+baseURL = "http://florianbeijers.xyz/"
+languageCode = "en-us"
+title = "MFlorian Beijers"
+theme = 'personal-web'
