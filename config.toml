@@ -27,7 +27,7 @@ pygmentsCodeFences=true
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/
   h1 = 'Now ...why did you go and break it? :('
-  p = "It seems that this page doesn't exist."
+  p = "It seems that this page doesn't exist. I award you for making that happen though, it shouldn't. Care to let me know what you did to make this happen?"
 
 [params.sections]
   # Define how your sections will be called

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Florian Beijers</title>
+    <link>https://florianbeijers.xyz/technology/</link>
+    <description>Recent content in Technology on Florian Beijers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Florian Beijers</copyright>
+    
+	<atom:link href="https://florianbeijers.xyz/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
